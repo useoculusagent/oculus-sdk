@@ -1,0 +1,35 @@
+{
+  "version": "0.1.0",
+  "name": "oculus_policy",
+  "instructions": [
+    {
+      "name": "initPolicy",
+      "accounts": [],
+      "args": []
+    },
+    {
+      "name": "checkSpend",
+      "accounts": [],
+      "args": []
+    },
+    {
+      "name": "pauseAgent",
+      "accounts": [],
+      "args": []
+    },
+    {
+      "name": "closePolicy",
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Policy",
+      "type": {
+        "kind": "struct",
+        "fields": []
+      }
+    }
+  ]
+}
