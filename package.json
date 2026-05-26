@@ -1,6 +1,6 @@
 {
   "name": "@oculus/sdk",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "TypeScript SDK for the Oculus on-chain policy program",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
