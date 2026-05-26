@@ -12,3 +12,5 @@
 - Initial scaffold: client, PDA helper, types
 - `initPolicy`, `checkSpend`, `fetchPolicy` methods
 - CI matrix
+
+<!-- maintenance entry 11 on 2026-05-27 -->
