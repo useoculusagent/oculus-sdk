@@ -46,7 +46,7 @@ if (!result.ok) {
 
 ## Linked
 
-- [oculus-program](https://github.com/OculusAgent/oculus-program) — the Anchor program
+- [oculus-program](https://github.com/useoculusagent/oculus-program) — the Anchor program
 - [oculusagent.xyz](https://oculusagent.xyz) — product
 
 ## License
